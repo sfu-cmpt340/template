@@ -65,9 +65,12 @@ conda activate amazing
 Demonstrate how your work can be reproduced, e.g. the results in your report.
 ```bash
 mkdir tmp && cd tmp
+wget https://yourstorageisourbusiness.com/dataset.zip
+unzip dataset.zip
 conda activate amazing
 python evaluate.py --epochs=10 --data=/in/put/dir
 ```
+Data can be found at ...
 Output will be saved in ...
 
 <a name="project"></a>
@@ -83,6 +86,8 @@ Link to overleaf for project proposal.
     - Commit messages should be informative:
         - No: 'this should fix it', 'bump'
         - Yes: 'Resolve invalid API call in updating X'
+    - Do NOT include IDE folders (.idea), or hidden files. Update your .gitignore where needed.
+    - Do NOT use the repository to upload data
 - Use [VSCode](https://code.visualstudio.com/) or a similarly powerful IDE
 - Use [Copilot for free](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
 - Sign up for [Github educaction](https://education.github.com/) 
