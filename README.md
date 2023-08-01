@@ -12,8 +12,8 @@ A few words on the problem this project solves, a few images before/after.
 A minimal example to showcase your work
 
 ```python
-from thisproject.examples import amazing
-imgs = amazing.demo()
+from amazing import amazingexample
+imgs = amazingexampe.demo()
 for img in imgs:
     view(img)
 ```
