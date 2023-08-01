@@ -76,7 +76,7 @@ Output will be saved in ...
 <a name="project"></a>
 ## 4. Project report
 
-Link to overleaf for project proposal.
+Link to overleaf for project report.
 
 <a name="guide"></a>
 ## 5. Guidance
@@ -84,7 +84,7 @@ Link to overleaf for project proposal.
 - Use [git](https://git-scm.com/book/en/v2)
     - Do NOT use history re-editing (rebase)
     - Commit messages should be informative:
-        - No: 'this should fix it', 'bump'
+        - No: 'this should fix it', 'bump' commit messages
         - Yes: 'Resolve invalid API call in updating X'
     - Do NOT include IDE folders (.idea), or hidden files. Update your .gitignore where needed.
     - Do NOT use the repository to upload data
