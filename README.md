@@ -1,10 +1,14 @@
 # SFU CMPT 340 Project Template -- Replace with project title
 This repository is a template for your CMPT 340 course project.
-Replace the title with your project title, and add a snappy acronym that people remember (mnemonic).
+Replace the title with your project title, and **add a snappy acronym that people remember (mnemonic)**.
 
 ## Timesheet
 Create a timesheet (excel, google sheets, ...) where you track per student the time and tasks completed/participated for this project
 <a name="intro"></a>
+
+## Video/demo/gif
+Record a short 2-5 min video or gif showcasing your work.
+
 ## 1. Introduction
 A few words on the problem this project solves, a few images before/after. 
 
