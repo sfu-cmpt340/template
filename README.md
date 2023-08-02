@@ -4,10 +4,12 @@ Replace the title with your project title, and **add a snappy acronym that peopl
 
 ## Timesheet
 Create a timesheet (excel, google sheets, ...) where you track per student the time and tasks completed/participated for this project
+Add the link [here](https://google.com)
+
 <a name="intro"></a>
 
 ## Video/demo/gif
-Record a short 2-5 min video or gif showcasing your work.
+Record a short 2-5 min video or gif or a simple screen recording or even using PowerPoint with audio or with text, showcasing your work.
 
 ## 1. Introduction
 A few words on the problem this project solves, a few images before/after. 
