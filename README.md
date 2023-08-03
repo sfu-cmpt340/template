@@ -2,9 +2,10 @@
 This repository is a template for your CMPT 340 course project.
 Replace the title with your project title, and **add a snappy acronym that people remember (mnemonic)**.
 
+Add a 1-2 line summary of your project here.
+
 ## Timesheet
-Create a timesheet (excel, google sheets, ...) where you track per student the time and tasks completed/participated for this project
-Add the link [here](https://google.com)
+Link your timesheet (pinned in your project's Slack channel) where you track per student the time and tasks completed/participated for this project [here](https://google.com).
 
 <a name="intro"></a>
 
@@ -21,7 +22,7 @@ A minimal example to showcase your work
 
 ```python
 from amazing import amazingexample
-imgs = amazingexampe.demo()
+imgs = amazingexample.demo()
 for img in imgs:
     view(img)
 ```
@@ -36,7 +37,7 @@ for img in imgs:
 
 3. [Reproducing this project](#repro)
 
-4. [Project report](#proj)
+4. [Project report](#project)
 
 5. [Guidance](#guide)
 
@@ -98,4 +99,4 @@ Link to overleaf for project report.
     - Do NOT use the repository to upload data
 - Use [VSCode](https://code.visualstudio.com/) or a similarly powerful IDE
 - Use [Copilot for free](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
-- Sign up for [Github educaction](https://education.github.com/) 
+- Sign up for [GitHub educaction](https://education.github.com/) 
