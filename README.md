@@ -4,19 +4,33 @@ Replace the title with your project title, and **add a snappy acronym that peopl
 
 Add a 1-2 line summary of your project here.
 
-## Timesheet
-Link your timesheet (pinned in your project's Slack channel) where you track per student the time and tasks completed/participated for this project [here](https://google.com).
+## Important Links
 
-<a name="intro"></a>
+| [Timesheet](https://google.com) | [Slack channel](https://google.com) | [Project report](https://google.com) |
+|-----------|---------------|-------------------------|
 
-## Video/demo/gif
-Record a short 2-5 min video or gif or a simple screen recording or even using PowerPoint with audio or with text, showcasing your work.
 
-## 1. Introduction
-A few words on the problem this project solves, a few images before/after. 
+- Timesheet: Link your timesheet (pinned in your project's Slack channel) where you track per student the time and tasks completed/participated for this project/
+- Slack channel: Link your private Slack project channel.
+- Project report: Link your Overleaf project report document.
+
+
+## Video/demo/GIF
+Record a short video (1:40 - 2 minutes maximum) or gif or a simple screen recording or even using PowerPoint with audio or with text, showcasing your work.
+
+
+## Table of Contents
+1. [Demo](#demo)
+
+2. [Installation](#installation)
+
+3. [Reproducing this project](#repro)
+
+4. [Guidance](#guide)
+
 
 <a name="demo"></a>
-### 1.1 Example demo
+## 1. Example demo
 
 A minimal example to showcase your work
 
@@ -27,22 +41,7 @@ for img in imgs:
     view(img)
 ```
 
-
-## Table of contents
-1. [Introduction](#intro)
-
-    1.2 [Demo](#demo)
-
-2. [Installation](#installation)
-
-3. [Reproducing this project](#repro)
-
-4. [Project report](#project)
-
-5. [Guidance](#guide)
-
-
-## What to find where
+### What to find where
 
 Explain briefly what files are found where
 
@@ -82,13 +81,8 @@ python evaluate.py --epochs=10 --data=/in/put/dir
 Data can be found at ...
 Output will be saved in ...
 
-<a name="project"></a>
-## 4. Project report
-
-Link to overleaf for project report.
-
 <a name="guide"></a>
-## 5. Guidance
+## 4. Guidance
 
 - Use [git](https://git-scm.com/book/en/v2)
     - Do NOT use history re-editing (rebase)
@@ -99,4 +93,4 @@ Link to overleaf for project report.
     - Do NOT use the repository to upload data
 - Use [VSCode](https://code.visualstudio.com/) or a similarly powerful IDE
 - Use [Copilot for free](https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
-- Sign up for [GitHub educaction](https://education.github.com/) 
+- Sign up for [GitHub Education](https://education.github.com/) 
